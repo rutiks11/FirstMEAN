@@ -1,0 +1,26 @@
+body
+{
+    background-color:cornsilk;  
+}
+
+.container
+{
+    text-align: center;
+    color:#000000;
+}
+
+Table
+{
+    border: 3px solid;
+    width: 0%; 
+}
+
+th{
+    height: 5px;
+    padding: 20px;
+}
+
+td{
+    padding: 0 20px;
+}
+
